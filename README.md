@@ -1,2 +1,5 @@
-# interstitial-nephritis-cystic-disease-external-only-quiz
-Interstitial Nephritis &amp; Cystic Disease · External Only · Quiz
+# Interstitial Nephritis & Cystic Disease · External Only · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
